@@ -159,6 +159,15 @@ const PRIVACY_DOC = {
           fr: `L'application n'utilise pas de réseaux publicitaires, d'analyses intégrées ni de systèmes de suivi tiers.`,
           it: `L'app non utilizza reti pubblicitarie, analisi integrate o sistemi di tracciamento di terze parti.`,
         }},
+        { type: 'p', text: {
+          ru: `Функция «Найти рецепт в интернете» лишь открывает поисковый запрос в браузере вашего устройства. Само приложение не имеет доступа к интернету и ничего не передаёт; дальнейшая обработка запроса происходит на стороне выбранного вами поисковика по его собственной политике конфиденциальности.`,
+          en: `The “Find a recipe online” feature only opens a search query in your device’s browser. The app itself has no internet access and transmits nothing; the query is then handled by the search engine you choose, under its own privacy policy.`,
+          uk: `Функція «Знайти рецепт в інтернеті» лише відкриває пошуковий запит у браузері вашого пристрою. Сам застосунок не має доступу до інтернету й нічого не передає; далі запит обробляє обраний вами пошуковик згідно зі своєю політикою конфіденційності.`,
+          es: `La función «Buscar receta en internet» solo abre una consulta de búsqueda en el navegador de tu dispositivo. La app en sí no tiene acceso a internet y no transmite nada; la consulta la procesa después el buscador que elijas, según su propia política de privacidad.`,
+          de: `Die Funktion „Rezept im Internet suchen“ öffnet lediglich eine Suchanfrage im Browser deines Geräts. Die App selbst hat keinen Internetzugriff und übermittelt nichts; die Anfrage wird anschließend von der von dir gewählten Suchmaschine gemäß deren eigener Datenschutzrichtlinie verarbeitet.`,
+          fr: `La fonction « Chercher une recette sur internet » ouvre simplement une requête de recherche dans le navigateur de votre appareil. L'application elle-même n'a pas accès à internet et ne transmet rien ; la requête est ensuite traitée par le moteur de recherche que vous choisissez, selon sa propre politique de confidentialité.`,
+          it: `La funzione «Cerca una ricetta online» apre soltanto una ricerca nel browser del tuo dispositivo. L'app stessa non ha accesso a internet e non trasmette nulla; la ricerca viene poi gestita dal motore di ricerca che scegli, secondo la sua informativa sulla privacy.`,
+        }},
       ],
     },
     {
